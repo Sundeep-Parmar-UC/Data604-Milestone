@@ -1,4 +1,4 @@
-﻿Zone,Community,Unit,Oct-23,Oct-24
+Zone,Community,Unit,Oct-23,Oct-24
 Zone 1 - Downtown,Ramsay,Bachelor,1364,1448
 Zone 1 - Downtown,Beltline,Bachelor,1364,1448
 Zone 1 - Downtown,Chinatown,Bachelor,1364,1448
@@ -287,3 +287,51 @@ Zone 9 - Fish Creek,WALDEN,Bachelor,1182,1445
 Zone 9 - Fish Creek,WALDEN,1 Bedroom,1400,1668
 Zone 9 - Fish Creek,WALDEN,2 Bedroom,1680,1827
 Zone 9 - Fish Creek,WALDEN,3 Bedroom +,1601,1835
+Zone 3 - North Hill,LEWISBURG,Bachelor,1197,1379
+Zone 3 - North Hill,LEWISBURG,1 Bedroom,1330,1426
+Zone 3 - North Hill,LEWISBURG,2 Bedroom,1725,1874
+Zone 3 - North Hill,LEWISBURG,3 Bedroom +,2188,2263
+Zone 4 - Southwest,ALPINE PARK,Bachelor,994,994
+Zone 4 - Southwest,ALPINE PARK,1 Bedroom,1354,1714
+Zone 4 - Southwest,ALPINE PARK,2 Bedroom,1548,1834
+Zone 4 - Southwest,ALPINE PARK,3 Bedroom +,1547,1493
+Zone 4 - Southwest,OSPREY HILL,Bachelor,994,994
+Zone 4 - Southwest,OSPREY HILL,1 Bedroom,1354,1714
+Zone 4 - Southwest,OSPREY HILL,2 Bedroom,1548,1834
+Zone 4 - Southwest,OSPREY HILL,3 Bedroom +,1547,1493
+Zone 4 - Southwest,RESIDUAL WARD 6,Bachelor,994,994
+Zone 4 - Southwest,RESIDUAL WARD 6,1 Bedroom,1354,1714
+Zone 4 - Southwest,RESIDUAL WARD 6,2 Bedroom,1548,1834
+Zone 4 - Southwest,RESIDUAL WARD 6,3 Bedroom +,1547,1493
+Zone 6 - Northwest,AMBLETON,Bachelor,967,967
+Zone 6 - Northwest,AMBLETON,1 Bedroom,1322,1575
+Zone 6 - Northwest,AMBLETON,2 Bedroom,1531,1769
+Zone 6 - Northwest,AMBLETON,3 Bedroom +,1739,2052
+Zone 6 - Northwest,GLACIER RIDGE,Bachelor,967,967
+Zone 6 - Northwest,GLACIER RIDGE,1 Bedroom,1322,1575
+Zone 6 - Northwest,GLACIER RIDGE,2 Bedroom,1531,1769
+Zone 6 - Northwest,GLACIER RIDGE,3 Bedroom +,1739,2052
+Zone 6 - Northwest,HASKAYNE,Bachelor,967,967
+Zone 6 - Northwest,HASKAYNE,1 Bedroom,1322,1575
+Zone 6 - Northwest,HASKAYNE,2 Bedroom,1531,1769
+Zone 6 - Northwest,HASKAYNE,3 Bedroom +,1739,2052
+Zone 7 - Northeast,HOMESTEAD,Bachelor,1335,1335
+Zone 7 - Northeast,HOMESTEAD,1 Bedroom,1335,1525
+Zone 7 - Northeast,HOMESTEAD,2 Bedroom,1628,1858
+Zone 7 - Northeast,HOMESTEAD,3 Bedroom +,1966,2125
+Zone 7 - Northeast,HUXLEY,Bachelor,1335,1335
+Zone 7 - Northeast,HUXLEY,1 Bedroom,1335,1525
+Zone 7 - Northeast,HUXLEY,2 Bedroom,1628,1858
+Zone 7 - Northeast,HUXLEY,3 Bedroom +,1966,2125
+Zone 7 - Northeast,RESIDUAL WARD 5 - SUB AREA 5F,Bachelor,1335,1335
+Zone 7 - Northeast,RESIDUAL WARD 5 - SUB AREA 5F,1 Bedroom,1335,1525
+Zone 7 - Northeast,RESIDUAL WARD 5 - SUB AREA 5F,2 Bedroom,1628,1858
+Zone 7 - Northeast,RESIDUAL WARD 5 - SUB AREA 5F,3 Bedroom +,1966,2125
+Zone 7 - Northeast,TWINHILLS,Bachelor,1335,1335
+Zone 7 - Northeast,TWINHILLS,1 Bedroom,1335,1525
+Zone 7 - Northeast,TWINHILLS,2 Bedroom,1628,1858
+Zone 7 - Northeast,TWINHILLS,3 Bedroom +,1966,2125
+Zone 9 - Fish Creek,WOLF WILLOW,Bachelor,1182,1445
+Zone 9 - Fish Creek,WOLF WILLOW,1 Bedroom,1400,1668
+Zone 9 - Fish Creek,WOLF WILLOW,2 Bedroom,1680,1827
+Zone 9 - Fish Creek,WOLF WILLOW,3 Bedroom +,1601,1835
